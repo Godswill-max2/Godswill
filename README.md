@@ -23,6 +23,6 @@
 * Molta capacitat d'esforçar-me fisicamente.
 * Bon parla per a converses.
 * Capacitat de poder Programar de manera lleu.
-* reball en Equip.
+* Treball en Equip.
 
 
