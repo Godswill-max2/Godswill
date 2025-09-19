@@ -3,8 +3,8 @@
 ## 2. Qui sóc?
 * Nom: Godswill Nosakhare Osemwota Uwadiae.
 * Edat: 16.
-* Email: godswillnosakhareosemwotauwadiae@elpuig.xeill.net
 * On visc: Espanya, Catalunya Barcelona.
+* godswillnosakhareosemwotauwadiae@elpuig.xeill.net
 
 ## 3. Aficions i interessos
 * L'ordinador.
