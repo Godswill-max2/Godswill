@@ -1,9 +1,5 @@
 # 1. Presentació
 
-```dhdhdhsd
-
-```
-
 ## 2. Qui sóc?
 * **Nom:** Godswill Nosakhare Osemwota Uwadiae.
 * **Edat:** 16.
