@@ -1,8 +1,5 @@
 # 1. Presentació
 
-```![Dades Extra](https://github.com/Godswill-max2/Godswill/blob/main/Dades%20Extra)
-```
-
 ## 2. Qui sóc?
 * **Nom:** Godswill Nosakhare Osemwota Uwadiae.
 * **Edat:** 16.
