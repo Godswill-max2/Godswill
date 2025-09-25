@@ -1,5 +1,8 @@
 # 1. Presentació
 
+```![Discord](https://sm.ign.com/t/ign_es/guide/w/what-is-di/what-is-discord-what-is-stream-attenuation_fuvp.1200.jpg)
+```
+
 ## 2. Qui sóc?
 * **Nom:** Godswill Nosakhare Osemwota Uwadiae.
 * **Edat:** 16.
