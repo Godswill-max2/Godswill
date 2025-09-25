@@ -1,6 +1,6 @@
 # 1. Presentació
 
-```![Discord](https://sm.ign.com/t/ign_es/guide/w/what-is-di/what-is-discord-what-is-stream-attenuation_fuvp.1200.jpg)
+```![Dades Extra](https://github.com/Godswill-max2/Godswill/blob/main/Dades%20Extra)
 ```
 
 ## 2. Qui sóc?
