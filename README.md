@@ -1,9 +1,9 @@
 # 1. Presentació
 
 ## 2. Qui sóc?
-* Nom: Godswill Nosakhare Osemwota Uwadiae.
-* Edat: 16.
-* On visc: Espanya, Catalunya Barcelona.
+* **Nom:** Godswill Nosakhare Osemwota Uwadiae.
+* **Edat:** 16.
+* **On visc:** Espanya, Catalunya Barcelona.
 * godswillnosakhareosemwotauwadiae@elpuig.xeill.net
 
 ## 3. Aficions i interessos
@@ -14,7 +14,7 @@
 * Escoltar Musica.
 
 ## 4. Educació.
-* Primària (Escola Jaume Salvatella) i l'ESO ( Institut Les Vinyes) aprovat.
+* Primària **(Escola Jaume Salvatella)** i l'ESO **(Institut Les Vinyes)** aprovat.
 
 ## 5. Experiència laboral.
 * 7 anys o mes d'experiència jugant Futbol Gespa.
