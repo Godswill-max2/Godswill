@@ -29,6 +29,6 @@
 He triat aquest cicle perquè des de l'ESO ja m'ha anomenat la atencion tot sobre el tema Informàtica, ademas, em vaig adonar que és una cosa que m'agrada, això que vull estudiar-ho per a saber com es desarolla tot sobre aquest món, i esperar que alguna cosa de la Informatica sigui el meu treball futur, perquè paguen bé i m'agradés.
 
 ## 8. Fotografia.
-![Infor Imatge.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fintecssa.com%2Fque-se-protege-en-seguridad-informatica%2F&psig=AOvVaw0LZ38k-QB5z5tihtEkD0UC&ust=1758888319197000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOCC-9zv848DFQAAAAAdAAAAABAE) 
+![https://github.com/Godswill-max2/Godswill/blob/main/Infor%20Imatge.png](https://github.com/Godswill-max2/Godswill/blob/main/Infor%20Imatge.png) 
 
 
