@@ -6,6 +6,8 @@
 * **On visc:** Espanya, Catalunya Barcelona.
 * godswillnosakhareosemwotauwadiae@elpuig.xeill.net
 
+_________________________________________________________________________________
+
 ## 3. Aficions i interessos
 * L'ordinador.
 * Els Videojocs.
@@ -13,11 +15,17 @@
 * Passejar.
 * Escoltar Musica.
 
+_________________________________________________________________________________
+
 ## 4. Educació.
 * Primària **(Escola Jaume Salvatella)** i l'ESO **(Institut Les Vinyes)** aprovat.
 
+_________________________________________________________________________________
+
 ## 5. Experiència laboral.
 * 7 anys o mes d'experiència jugant Futbol Gespa.
+
+_________________________________________________________________________________
 
 ## 6. Habilitats
 * Molta capacitat d'esforçar-me fisicamente.
@@ -25,8 +33,12 @@
 * Capacitat de poder Programar de manera lleu.
 * Treball en Equip.
 
+_________________________________________________________________________________
+
 ## 7. Perquè he triat aquest cicle?
 He triat aquest cicle perquè des de l'ESO ja m'ha anomenat la atencion tot sobre el tema Informàtica, ademas, em vaig adonar que és una cosa que m'agrada, això que vull estudiar-ho per a saber com es desarolla tot sobre aquest món, i esperar que alguna cosa de la Informatica sigui el meu treball futur, perquè paguen bé i m'agradés.
+
+_________________________________________________________________________________
 
 ## 8. Fotografia.
 ![https://github.com/Godswill-max2/Godswill/blob/main/Infor%20Imatge.png](https://github.com/Godswill-max2/Godswill/blob/main/Infor%20Imatge.png) 
